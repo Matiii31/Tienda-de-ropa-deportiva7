@@ -1,0 +1,34 @@
+.logo{
+    border-radius: 100%;
+    border: 3px solid black;
+    text-align: center;
+    
+}
+#car1{
+    height: 1000px;
+    width: 800px;
+}
+
+.card-title{
+    font-size: 30px;
+    font-family: 'Anton';
+
+}
+
+#zapato1{
+    display: flex;
+}
+#img1{
+    height: 550px;
+    width: 450px;
+}
+#img2{
+    height: 500px;
+    width: 470px;
+}
+#tituloo{
+    text-align: center;
+}
+#titulo{
+    text-align: center;
+}
